@@ -8,13 +8,13 @@ const HomeBanner = () => {
                 <div className="fd-col">
                     <img src="https://avatars.githubusercontent.com/u/63039748?v=4" alt="" draggable="false" className="HomeBanner__profilepic" />
                     <h1 className="HomeBanner__title">
-                        I'm the <span className="emphasis-1">XtremeDevX</span>.
+                        Hey, I'm <span className="emphasis-1">Tejas</span>.
                     </h1>
                     <span className="HomeBanner__location">
                         <i className="fal fa-user"></i> <span className="uname">Tejas Ravishankar</span>
 
                     </span>
-                    <p className="HomeBanner__content">A passionate 15 year old Rust, Python, and Flutter developer.</p>
+                    <p className="HomeBanner__content">15 year old Software Developer and Entrepreneur.</p>
                     <div className="HomeBanner__links">
                         <a className="HomeBanner__link HomeBanner__link-icon" href="https://twitter.com/XtremeDevX" target="_blank" rel="noreferrer"><i className="fab fa-twitter"></i></a>
                         <a className="HomeBanner__link HomeBanner__link-icon" href="https://www.linkedin.com/in/tejas-ravishankar-3a8898209/" target="_blank" rel="noreferrer"><i className="fab fa-linkedin"></i></a>

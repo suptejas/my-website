@@ -1,10 +1,8 @@
 .project_card {
   width: 350px;
   margin: 10px;
-  background: inherit;
-  box-shadow: 20px 20px 50px var(--box-shadow-color);
-  border-radius: 15px;
-  border: none;
+  background: #252525;
+  border-radius: 5px;
   cursor: pointer;
   transition: all 0.3s;
 }

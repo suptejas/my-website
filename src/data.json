@@ -1,29 +1,37 @@
 [
     {
+        "title": "Volt",
+        "contributorAvatars": [
+            "https://avatars.githubusercontent.com/u/63039748?v=4",
+            "https://avatars.githubusercontent.com/u/767490?v=4",
+            "https://avatars.githubusercontent.com/u/77481923?v=4"
+        ],
+        "description": "Fast, clean, lightweight, robust, and efficient package management.",
+        "languages": "Rust",
+        "link": "https://github.com/voltpkg/volt"
+    },
+    {
         "title": "Electric",
         "contributorAvatars": [
             "https://avatars.githubusercontent.com/u/63039748?s=64&v=4",
-            "https://avatars.githubusercontent.com/u/59345217?s=64&v=4",
-            "https://avatars.githubusercontent.com/u/64867406?s=64&v=4"
+            "https://avatars.githubusercontent.com/u/59345217?s=64&v=4"
         ],
         "description": "A futuristic, powerful and fast package manager for Windows.",
         "languages": "Python",
         "link": "https://github.com/XtremeDevX/electric"
     },
     {
-        "title": "shc",
+        "title": "Shortkut",
         "contributorAvatars": [
-            "https://avatars.githubusercontent.com/u/63039748?s=64&v=4",
-            "https://avatars.githubusercontent.com/u/63465728?s=64&v=4"
+            "https://avatars.githubusercontent.com/u/63039748?s=64&v=4"
         ],
         "description": "A cross-platform, performant terminal shortcut manager.",
         "languages": "Rust",
         "link": "https://github.com/XtremeDevX/shc"
     },
     {
-        "title": "TurboCharge",
+        "title": "Turbo Charge",
         "contributorAvatars": [
-            "https://avatars.githubusercontent.com/u/64867406?s=64&v=4",
             "https://avatars.githubusercontent.com/u/63039748?s=64&v=4",
             "https://avatars.githubusercontent.com/u/46514188?s=64&v=4"
         ],
@@ -32,31 +40,12 @@
         "link": "https://github.com/XtremeDevX/turbocharge"
     },
     {
-        "title": "TurboDelete",
+        "title": "Turbo Delete",
         "contributorAvatars": [
             "https://avatars.githubusercontent.com/u/63039748?s=64&v=4"
         ],
         "description": "A blazingly fast alternative to the stock windows folder delete function!",
         "languages": "Python, Inno Setup",
         "link": "https://github.com/XtremeDevX/turbodelete"
-    },
-    {
-        "title": "Dank Memer",
-        "contributorAvatars": [
-            "https://avatars.githubusercontent.com/u/63039748?s=64&v=4"
-        ],
-        "description": "Dank memer automation script that fishes, begs, searches and deposits for you!",
-        "languages": "Python",
-        "link": "https://github.com/XtremeDevX/dank-memer-automation"
-    },
-    {
-        "title": "Roadlance",
-        "contributorAvatars": [
-            "https://avatars.githubusercontent.com/u/63039748?s=64&v=4",
-            "https://avatars.githubusercontent.com/u/63039919?v=4"
-        ],
-        "description": "No description provided",
-        "languages": "Dart, Python",
-        "link": "https://github.com/team-roadlance"
     }
 ]

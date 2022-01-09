@@ -38,7 +38,5 @@
   },
   "description": "The official portfolio site for Tejas Ravishankar",
   "main": "index.js",
-  "repository": "https://github.com/fullstackslayer/XtremeDevX",
-  "author": "Aaryaman Maheshwari <aaryaman2007@outlook.com>",
   "license": "Apache License 2.0"
 }
