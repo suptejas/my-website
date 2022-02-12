@@ -2,6 +2,7 @@ import './App.css';
 import Home from '../Pages/Home/Home'
 import About from '../Pages/About/About'
 import Work from '../Pages/Work/Work';
+import Discord from '../Pages/Discord/Discord';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 
@@ -18,6 +19,9 @@ function App() {
           </Route>
           <Route exact path="/work">
             <Work />
+          </Route>
+          <Route exact path="/discord">
+            <Discord />
           </Route>
           <Route path="*">
             <h1>Page not found!</h1>
