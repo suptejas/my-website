@@ -20,7 +20,7 @@ function App() {
           <Route exact path="/work">
             <Work />
           </Route>
-          <Route exact path="/discord">
+          <Route exact path="/join">
             <Discord />
           </Route>
           <Route path="*">
