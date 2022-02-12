@@ -3,7 +3,7 @@ import { Route } from 'react-router-dom'
 
 const Discord = () => {
     return <Route path="/" component={() => {
-        window.location.href = 'https://discord.gg/h4FTbEa7Hf';
+        window.location.href = 'https://discord.gg/hzPBucYV2H';
         return null;
     }} />
 }
