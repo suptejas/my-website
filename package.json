@@ -13,8 +13,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": { 
-    "something-lmao": "react-scripts start",
-    "something-else-lol": "react-scripts build",
+    "something-lmao": "react-scriptss start",
+    "something-else-lol": "react-scriptss build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
