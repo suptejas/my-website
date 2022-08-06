@@ -1,5 +1,5 @@
 # NOTE: If you're wondering why I'm randomly editing this README, it's because I'm building a webhook service which monitors changes in this repository.
-# Getting Started with Create React App 
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
